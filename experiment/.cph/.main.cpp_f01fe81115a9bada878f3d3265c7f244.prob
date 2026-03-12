@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"/Users/mihai/Developer/cp/experiment/main.cpp","tests":[{"id":1772794460579,"input":"5\n66 64 65 68 67","output":"DA\n68"},{"id":1772794475911,"input":"7\n66 44 55 57 55 44 83","output":"NU\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mihai/Developer/cp/experiment/main.cpp","group":"local","local":true}
