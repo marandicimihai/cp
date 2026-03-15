@@ -1,1 +1,0 @@
-{"name":"Local: main","url":"/Users/mihai/Developer/cp/pinguini/main.cpp","tests":[{"id":1769367741352,"input":"16\n6 3 9 12 7 3 1 24 15 3 1 25 18 9 10 0\n","output":"12 3 25\n25 24 18 15\n3 3 1 12\n3 0 1 10\n6 7 9 9\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mihai/Developer/cp/pinguini/main.cpp","group":"local","local":true}

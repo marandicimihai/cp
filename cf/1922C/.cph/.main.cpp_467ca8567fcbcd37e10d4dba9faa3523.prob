@@ -1,1 +1,0 @@
-{"name":"Local: main","url":"/Users/mihai/Developer/cp/1922C/main.cpp","tests":[{"id":1772738478647,"input":"1\n5\n0 8 12 15 20\n5\n1 4\n1 5\n3 4\n3 2\n5 1","output":"3\n8\n1\n4\n14"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mihai/Developer/cp/1922C/main.cpp","group":"local","local":true}

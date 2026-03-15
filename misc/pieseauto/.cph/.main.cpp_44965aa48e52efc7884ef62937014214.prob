@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"/Users/mihai/Developer/cp/misc/pieseauto/main.cpp","tests":[{"id":1769370241220,"input":"2 1 2","output":"3"},{"id":1769370245908,"input":"10 3 4","output":"36"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mihai/Developer/cp/misc/pieseauto/main.cpp","group":"local","local":true}

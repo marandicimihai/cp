@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"/Users/mihai/Developer/cp/cf/1788C/main.cpp","tests":[{"id":1772700046877,"input":"4\n1\n2\n3\n4","output":"Yes\n1 2\nNo\nYes\n1 6\n3 5\n4 2\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mihai/Developer/cp/cf/1788C/main.cpp","group":"local","local":true}
